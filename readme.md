@@ -36,6 +36,7 @@ cache-control: no-cache
 
 ```json
 {
+    "date": "09-06-2019",
     "name": "Thorntail",
     "message": "2019/5/22"
 }
@@ -72,6 +73,7 @@ cache-control: no-cache
 
 ```json
 {
+    "date": "09-06-2019",
     "name": "Kiet T. Tran",
     "message": "Hello, 'Kiet T. Tran' from SaintGoretti/13112@SaintGoretti"
 }
